@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Stim",
+        "image": "https://dummyimage.com/231x144/198754/fff.png",
+        "price": 2000
+    },
+    {
+        "id": "2",
+        "name": "FixFlex",
+        "image": "https://dummyimage.com/231x144/dc3545/fff.png",
+        "price": 25000
+    },
+    {
+        "id": "3",
+        "name": "Toughtjoyfax",
+        "image": "https://dummyimage.com/231x144/6c757d/fff.png",
+        "price": 10500
+    },
+    {
+        "id": "4",
+        "name": "Toposoft",
+        "image": "https://dummyimage.com/231x144/0dcaf0/fff.png",
+        "price": 12300
+    }
+
+]
