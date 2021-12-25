@@ -24,7 +24,7 @@ p{
   border-radius: 2px;
 }
 
-.products li button{
+/* .products li button{
   border: 1px solid green;
   margin-top: 3px;
   color: green;
@@ -35,5 +35,5 @@ p{
 
 .products li button:hover{
   background-color: #dddd;
-}
+} */
 
